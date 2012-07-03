@@ -1,2 +1,2 @@
 file0
-change in branch master
+change in branch master and in branch br2
