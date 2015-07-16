@@ -1,2 +1,4 @@
 file0
 change in branch master and in branch br2
+file0 modified by branch-c
+file0 modified again by branch-c
